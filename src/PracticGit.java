@@ -7,5 +7,9 @@ public class PracticGit {
 		
 
 	}
+	public void printName(){
+		//this is method added on gitup
+		
 
+}
 }
